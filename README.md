@@ -1,6 +1,6 @@
 # 💫 About Me:
-Developing Flutter Application\n
-I'm currently working on Sowedane IT Solutions pvt ltd
+Developing Flutter Application<br>
+I'm currently working on Sowedane IT Solutions pvt ltd<br>
 I'm BTech Computer Science Graduate(2022)
 
 
